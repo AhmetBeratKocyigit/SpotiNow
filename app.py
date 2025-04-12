@@ -4,7 +4,7 @@ from spotify import get_current_track
 from flask_cors import CORS
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins="*")
 
 @app.route('/')
 def home():
