@@ -90,19 +90,9 @@ pip install -r requirements.txt
 - Webhook support: notify when a track changes.  
 - Premium features: custom URL aliasing, themes, privacy settings.
 
-## 🤝 Contributing
-
-Contributions are welcome!  
-1. Fork the repository.  
-2. Create a new branch (`git checkout -b feature/your‑feature`).  
-3. Make your changes, commit (`git commit -m "Add awesome feature"`).  
-4. Push to your branch and open a Pull Request.  
-5. Ensure code is well‑formatted and documented.
-
-Please read CONTRIBUTING.md (if available) for guidelines.
 
 ## 📝 License
 
-This project is licensed under the **MIT License** (or whichever you choose).  
+This project is licensed under the **MIT License**.  
 See the LICENSE file for details.
 
